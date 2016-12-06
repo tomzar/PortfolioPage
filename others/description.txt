@@ -1,0 +1,37 @@
+Requirements:
+Design:
+  - 4 images, title - done, paragraph, logo
+  - grid
+Responsive:
+  - all content is responsive and displays on all devices
+  - viewport meta tag needs to be included in the HTML - done
+  - if using framework, use classes to make images responsive, otherwise use media queries to make imgs responsive
+Separation of Concerns:
+  - basically separation of structure and presentation
+Code Quality:
+  - consistent, logical and easy to read formatting as described in Udacity's Guide
+
+  What do I need to get this project done?
+  - images
+    - I need at least 4 images
+      - 3 footer
+      - hero img
+  - logo
+    - I can use logo I have already created
+  - bootstrap framework
+    - I need bootstrap framework, so I can download minified version of CSS
+  - placeholder.it
+    - in order to placehold for imgs when there are none
+  - css Reset
+    - to prevent default styles of a browser
+  - figure out how to do modals
+    - in order for that I'll need to see the bootstrap documentation
+
+
+    Things to have always present when starting up a new project
+    - box-sizing for different browsers
+    - bootstrap
+    - html initial structure
+    - css reset files
+    - placeholders for imgs
+    - fonts - you need to link them
